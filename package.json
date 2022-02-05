@@ -1,0 +1,12 @@
+{
+  "name": "surum-1",
+  "version": "1.0.0",
+  "description": "Test için yapılan bir uygulama.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Tolga Aslan",
+  "license": "ISC"
+}
